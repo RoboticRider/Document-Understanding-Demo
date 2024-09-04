@@ -1,0 +1,29 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ValidatedExtractedResults&Sequence_3",
+        "ExtractedResults&Sequence_3",
+        "ValidatedClassifiedResults&Sequence_2",
+        "ClassifiedResults&Sequence_2",
+        "DOM&Sequence_2",
+        "str_Text&Sequence_2",
+        "Taxonomy&Sequence_1",
+        "arr_Files&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

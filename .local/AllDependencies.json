@@ -24673,6 +24673,7 @@
   "projectFileDependencyGroups": {
     "": [],
     "net8.0-windows7.0": [
+      "UiPath.DocumentUnderstanding.ML.Activities >= 1.28.7 <= 1.28.7",
       "UiPath.Excel.Activities >= 2.23.5 <= 2.23.5",
       "UiPath.IntelligentOCR.Activities >= 6.19.6 <= 6.19.6",
       "UiPath.System.Activities >= 24.10.4 <= 24.10.4",
@@ -24680,19 +24681,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ppjai\\.nuget\\packages\\": {}
+    "C:\\Users\\JaiPande\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "Document Understanding Demo",
       "projectName": "Document Understanding Demo",
-      "projectPath": "C:\\Users\\ppjai\\Documents\\UiPath\\Document Understanding Demo\\.local",
-      "packagesPath": "C:\\Users\\ppjai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ppjai\\Documents\\UiPath\\Document Understanding Demo\\.local"
+      "projectPath": "C:\\Users\\JaiPande\\OneDrive - WonderBotz LLC\\Documents\\UiPath\\Document-Understanding-Demo\\.local",
+      "packagesPath": "C:\\Users\\JaiPande\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\JaiPande\\OneDrive - WonderBotz LLC\\Documents\\UiPath\\Document-Understanding-Demo\\.local"
     },
     "frameworks": {
       "net8.0-windows7.0": {
         "dependencies": {
+          "UiPath.DocumentUnderstanding.ML.Activities": {
+            "include": "Runtime",
+            "target": "Package",
+            "version": "[1.28.7, 1.28.7]"
+          },
           "UiPath.Excel.Activities": {
             "include": "Runtime",
             "target": "Package",
@@ -24714,7 +24720,7 @@
             "version": "[24.10.3, 24.10.3]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\ppjai\\AppData\\Local\\Programs\\UiPath\\Studio\\PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\JaiPande\\AppData\\Local\\Programs\\UiPath\\Studio\\PortableRuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

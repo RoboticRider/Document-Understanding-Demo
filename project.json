@@ -4,6 +4,7 @@
   "description": "Demo of DU Process for Presentation",
   "main": "Main.xaml",
   "dependencies": {
+    "UiPath.DocumentUnderstanding.ML.Activities": "[1.28.7]",
     "UiPath.Excel.Activities": "[2.23.5]",
     "UiPath.IntelligentOCR.Activities": "[6.19.6]",
     "UiPath.System.Activities": "[24.10.4]",
@@ -13,7 +14,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "24.10.4.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.1",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,

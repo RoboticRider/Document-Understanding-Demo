@@ -12,14 +12,31 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "ValidatedExtractedResults&Sequence_3",
-        "ExtractedResults&Sequence_3",
-        "ValidatedClassifiedResults&Sequence_2",
-        "ClassifiedResults&Sequence_2",
-        "DOM&Sequence_2",
-        "str_Text&Sequence_2",
+        "arr_Files&Sequence_1",
         "Taxonomy&Sequence_1",
-        "arr_Files&Sequence_1"
+        "int_Index&Sequence_1",
+        "int_IndextForFileName&Sequence_1",
+        "ExtractedResults&Sequence_1",
+        "ValidatedExtractedResults&Sequence_1",
+        "Dataset&Sequence_1",
+        "str_Filename&Sequence_1",
+        "str_OutputFolder&Sequence_1",
+        "DOM&Sequence_1",
+        "ClassifiedResults&Sequence_1",
+        "str_Text&Sequence_1",
+        "ValidatedClassifiedResults&Sequence_1",
+        "index&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": ".local/ActivityTestBench/Bench_0.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "demo_File&Flowchart_1",
+        "demo_arr&Flowchart_1"
       ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
